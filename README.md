@@ -5,7 +5,7 @@
 ```big zone
 C110118149
 ```
-![NKUST](logo.png '高科大')
+![NKUST](nkust.png '高科大')
 
 #### 我的性別
 - [x] 男生
