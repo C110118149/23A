@@ -1,29 +1,35 @@
-# 23A
-## 23A
-### 23A
-#### 23A
-##### 23A
-###### 23A
+# 學號：C110118149
+## 118資訊管理系
+### 姓名:藍鼎然
+`C110118149`
+```big zone
+C110118149
+```
+![NKUST](logo.png '高科大')
 
-![NKUST](nkust.png "高科大")
+#### 我的性別
+- [x] 男生
+- [ ] 女生
 
-1.First order list iem
-2.Another item
-  * Unordered sub-list
-3.Actual numbers don't matter,just that it's a number
-  1.Ordered sub-list
-  2.2nd sub-list
-  3.3rd sub-list
-4.And another item
-+ note 1
-- note 2
-* note3
--[] todo list
--[] 2nd things
-ˋˋˋPython    
+#### 我的興趣
+* ***打球***
+* ***打麻將***
+  
 
-s = "Python Syntax Highlights "
-print(s)
+#### Python&Java測試
+```python
+s = "Python HighLight Syntax"
+prinr(s)
+```
 
+```js
 var s = "javascript syntax text";
-alert(s)
+alsert(s)
+```
+#### 表格
+|高雄景點|推薦指數|
+|:----------|:---|
+|駁二藝術特區|8.8顆星|
+|大港橋  |9.2顆星|
+|月世界地景公園  |8.8顆星|
+|蓮池潭  |8.8顆星|
